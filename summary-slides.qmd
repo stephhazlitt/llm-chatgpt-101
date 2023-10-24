@@ -1,0 +1,34 @@
+---
+title: "An Intro to ChatGPT & Large Language Models"
+subtitle: "(made with 🤖 & Quarto)"
+author: "Steph Hazlitt"
+footer: "🔗 https://github.com/stephhazlitt/llm-chatgpt-101"
+logo: "images/robot-face-emoji.png"
+execute:
+  echo: true
+format:
+  revealjs: 
+    theme: default
+engine: knitr
+editor: source
+---
+
+## This Session
+
+- What is ChatGPT 🤖?
+- Large Language Models (LLM)
+- Prompting and being safe with ChatGPT/LLM models
+
+## Lets Ask ChatGPT! 🤖
+
+![](images/what-is-chatgpt.png)
+
+
+
+## Who is Open AI?
+
+OpenAI is an AI research and deployment company.
+
+> We are governed by a nonprofit and our unique capped-profit model drives our commitment to safety. This means that as AI becomes more powerful, we can redistribute profits from our work to maximize the social and economic benefits of AI technology.
+
+<https://openai.com/about>
