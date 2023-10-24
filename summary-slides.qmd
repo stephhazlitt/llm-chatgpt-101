@@ -15,20 +15,97 @@ editor: source
 
 ## This Session
 
-- What is ChatGPT 🤖?
-- Large Language Models (LLM)
-- Prompting and being safe with ChatGPT/LLM models
+- What is ChatGPT 🤖? (hint: Large Language Model or LLM)
+- The Good, The Bad and The Ugly of LLMs
+- Prompting and being safe with ChatGPT
+- [Using an LLM locally]{style="color:grey;"}
 
 ## Lets Ask ChatGPT! 🤖
 
 ![](images/what-is-chatgpt.png)
 
+## Lets Ask ChatGPT! 🤖
+
+A more detailed "prompt":
+
+![](images/ask-chatgpt-2.png)
+
+## "Better" Answer 🤖
+
+![](images/ask-chatgpt-3.png)
 
 
-## Who is Open AI?
+## "Better" Answer 🤖
+
+![](images/ask-chatgpt-4.png)
+
+## ChatGPT 🤖
+
+-   Generative: generates new text from scratch
+-   Pretrained: Large Language Model (LLM) 
+-   Transformer: a type of neural network
+-   "Chat": trained on both text & conversational data, focussed on **chatting**
+
+## Who is OpenAI? 🪟
 
 OpenAI is an AI research and deployment company.
 
 > We are governed by a nonprofit and our unique capped-profit model drives our commitment to safety. This means that as AI becomes more powerful, we can redistribute profits from our work to maximize the social and economic benefits of AI technology.
 
 <https://openai.com/about>
+
+<br> [Note: It is reported that Microsoft’s investments in OpenAI give it a 49% stake in the company (billions of $)]{style="color:orange;"}
+
+
+## ChatGPT 👩‍💻🧑‍💻
+
+- model trained for ~1-2 months on 45 terabytes of data, including all of Wikipedia, books, and webpages (up until Sept 2021)
+-  more than 100 million users after only 2 months, fastest-growing consumer software application _ever_
+- free, a ‘research preview’ which allows OpenAI to assess the system’s strengths + weaknesses and gather feedback from early adopters
+
+::: notes
+Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years to reach 100 million users. This was a feat achieved by ChatGPT in a mere 60 days or so
+:::
+
+## ChatGPT ☁️💸
+
+- model training costs estimated to be ~$5 million dollars
+- sits on top of Microsoft’s Azure Cloud infrastructure ($3/h single A100GPU super computer cluster)
+- running costs estimated range somewhere between $100,000 and $700,000 per day ($3-$21 million per month)
+- OpenAI monetizing with ChatGPT "Plus" (5x training parameters) for $20 per month fee
+
+## What is ChatGPT _GOOD_ at? 🤖
+
+![](images/chatgpt-good-for.png){.absolute top="80" left="200" height="600"}
+
+## Facts Like Geography 🇨🇦
+
+![](images/canada.png){.absolute top="70" left="250" height="600"}
+
+## Generate Machine Readable Data ⊹
+
+![](images/table.png)
+
+
+## Creative Writing: Open Data on a Pirate Ship ⚓️
+
+![](images/pirate-voice.png)
+
+
+## Code 💻
+
+![](images/code.png)
+
+<https://allisonhorst.github.io/palmerpenguins/>
+
+
+## And the Code Works 📊
+
+![](images/code-works.png)
+
+## Some Prompting Tips
+
+- 
+
+
+
