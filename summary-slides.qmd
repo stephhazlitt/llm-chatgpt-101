@@ -1,7 +1,7 @@
 ---
 title: "An Intro to ChatGPT & Large Language Models"
-subtitle: "(made with 🤖 & Quarto)"
-author: "Steph Hazlitt"
+subtitle: "(slides made with Quarto)"
+author: "ChatGPT 🤖 & Steph Hazlitt"
 footer: "🔗 https://github.com/stephhazlitt/llm-chatgpt-101"
 logo: "images/robot-face-emoji.png"
 execute:
@@ -39,12 +39,22 @@ A more detailed "prompt":
 
 ![](images/ask-chatgpt-4.png){.absolute top="60"}
 
+## Large Language Model (LLM)
+
+![](images/llm.png){.absolute top="60"}
+
+## Large Language Model (LLM)
+
+![](images/llm-pl.png){.absolute top="60"}
+
 ## ChatGPT 🤖
 
 -   Generative: create something "new" (text)
 -   Pre-training: Large Language Model (LLM) trained on a lot of data
 -   Transformer: describes the design of this AI model
 -   "Chat": trained on text & "conversational" data
+
+> Developed by OpenAI, accessable via an easy to use browser-based user interface
 
 ## Who is OpenAI? 🪟
 
@@ -56,9 +66,6 @@ OpenAI is an AI research and deployment company.
 
 <br> [Note: It is reported that Microsoft’s investments in OpenAI give it a 49% stake in the company (billions of $)]{style="color:orange;"}
 
-## What is an LLM? 𝌭
-
-<content>
 
 ## ChatGPT 👩‍💻🧑‍💻
 
@@ -75,7 +82,7 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 - training each model costs estimated to be ~$5 million dollars 🤯
 - ChatGPT sits on Microsoft’s Azure Cloud infrastructure ($3/h single A100GPU super computer cluster)
 - running costs estimated between $100,000 and $700,000 per day ($3-$21 million per month)
-- OpenAI monetizing with ChatGPT "Plus" (5x training parameters) for $20 per month fee
+- OpenAI monetizing with ChatGPT Plus subscription (GPT-4 w/ 5x training parameters) for $20 per month fee
 
 ## What is ChatGPT _GOOD_ at? 🤖
 
@@ -89,6 +96,9 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ![](images/table.png){.absolute top="75"}
 
+## Content Drafting ✍️
+
+![](images/email.png){.absolute top="75"}
 
 ## Creative Writing: Open Data on a Pirate Ship ⚓️
 
@@ -96,11 +106,20 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 
 ## Code 💻 
-::: {style="font-size: 50%;"}
-<https://allisonhorst.github.io/palmerpenguins/>
+
+::: columns
+::: {.column width="70%"}
+![](images/code.png){.absolute top="75" width="800"}
 :::
 
-![](images/code.png)
+::: {.column width="30%"}
+
+::: {style="font-size: 40%;"}
+<br>
+<https://allisonhorst.github.io/palmerpenguins/>
+:::
+:::
+:::
 
 ## And the Code Works 📊
 
@@ -120,9 +139,37 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 - 
 
-## Some Prompting Tips
+## Prompting Tips
 
-- 
+- simple + short gets you started, but specificity gets much better results, e.g., style, tone, persona, length
 
 
+![](images/prompt-engineering.png){.absolute top="300"}
+
+## Prompt Engineering
+
+
+
+- request the return format you want (e.g., csv/table, haiku, json file, slides)
+
+## Add the Context ChatGPT Does Not Know
+
+
+
+## Few-Shot Prompting
+
+- Provide examples (as opposed to "zero-shot" or providing instruction without an example)
+
+
+::: notes
+All our prompts so far use what is called zero-shot prompting, which means that we are providing instruction without any example. But in many cases, it is extremely helpful to provide examples to the model to guide its response. This is called few-shot prompting.
+:::
+
+## Chain of Thought Prompting
+
+- Provide example in a prompt that show a response that includes a reasoning step
+
+## Ask for Steps
+
+- Add instructions for the model to generate intermediate steps before generating the final output.
 

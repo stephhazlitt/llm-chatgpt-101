@@ -15,11 +15,10 @@ A collection of resources, notes and learnings on:
 - [ChatGPT](https://chat.openai.com)
 - [ChatGPT Statistics (2023) — The Key Facts and Figures](https://www.stylefactoryproductions.com/blog/chatgpt-statistics)
 - [Generative AI for R Users](https://github.com/melissavanbussel/generative-ai-rladies) by Melissa Van Bussel (slides: <https://melissavanbussel.quarto.pub/generative-ai-rladies/#/title-slide>)
-- [Artificial Intelligence Series: Unpacking ChatGPT](https://www.csps-efpc.gc.ca/video/artificial-intelligence-series/chatgpt-eng.aspx)
 
 ### Prompting
 - [Constructing Prompts for the Command Model](https://txt.cohere.com/constructing-prompts/)
-- [11 Tips to Take Your ChatGPT Prompts to the Next Level](https://www.wired.com/story/11-tips-better-chatgpt-prompts/)
+- [Prompt Engineering for Effective Interaction with ChatGPT](https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/)
 
 ### Responsible Use
 - [Responsible use of artificial intelligence: Draft principles](https://digital.gov.bc.ca/policies-standards/ai/)
