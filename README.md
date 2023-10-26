@@ -19,13 +19,14 @@ A collection of resources, notes and learnings on:
 ### Prompting
 - [Constructing Prompts for the Command Model](https://txt.cohere.com/constructing-prompts/)
 - [Prompt Engineering for Effective Interaction with ChatGPT](https://machinelearningmastery.com/prompt-engineering-for-effective-interaction-with-chatgpt/)
+-[Prompt_engineering Wikipedia](https://en.wikipedia.org/wiki/Prompt_engineering)
 
 ### Responsible Use
-- [Responsible use of artificial intelligence: Draft principles](https://digital.gov.bc.ca/policies-standards/ai/)
+- [Government of British Columbia: Responsible use of artificial intelligence: Draft principles](https://digital.gov.bc.ca/policies-standards/ai/)
+- [Government of Canada: Guide on the use of Generative AI](https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html)
 
 ### Local LLMs
 - [5 easy ways to run an LLM locally](https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html)
-
 
 
 ------------------------------------------------------------------------

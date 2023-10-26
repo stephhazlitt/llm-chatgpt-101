@@ -13,41 +13,51 @@ engine: knitr
 editor: source
 ---
 
-## This Session
+## This Session 👩‍💻
 
 - What is ChatGPT 🤖? (hint: Large Language Model or "LLM")
 - The Good, The Bad and The Ugly of ChatGPT
 - Prompting and being safe with ChatGPT
 - [Using an LLM on a local machine 💻]{style="color:grey;"}
 
-## Lets Ask ChatGPT! 🤖
+## Lets Ask ChatGPT 🤖
 
 ![](images/what-is-chatgpt.png){.absolute top="75"}
 
-## Lets Ask ChatGPT! 🤖
+## Lets Ask ChatGPT 🤖
 
 A more detailed "prompt":
 
 ![](images/ask-chatgpt-2.png){.absolute top="75"}
 
-## Answer 🤖
+## Lets Ask ChatGPT 🤖
 
 ![](images/ask-chatgpt-3.png){.absolute top="75"}
 
 
-## Answer 🤖
+## Lets Ask ChatGPT 🤖
 
 ![](images/ask-chatgpt-4.png){.absolute top="60"}
 
-## Large Language Model (LLM)
+## What is a Large Language Model? 🤖
 
 ![](images/llm.png){.absolute top="60"}
 
-## Large Language Model (LLM)
+## What is a Large Language Model? 🤖
 
 ![](images/llm-pl.png){.absolute top="60"}
 
-## ChatGPT 🤖
+## Domain Specific LLMs 👩‍💻
+
+<br>
+
+![](images/copilot.png){.absolute top="150"}
+
+::: notes
+Large language models (LLMs), like ChatGPT, can also be focused on domains, and tuned or targeted with additional information. These resulting models can have more expertise in a targeted domain – and avoid information which can produce confused output. Examples of these include those LLMs that are focused on code development, biomedical or legal domains (e.g., CodePilot, CodeLlama, BioBert, Legal-Bert). 
+:::
+
+## ChatGPT 👩‍💻
 
 -   Generative: create something "new" (text)
 -   Pre-training: Large Language Model (LLM) trained on a lot of data
@@ -56,7 +66,7 @@ A more detailed "prompt":
 
 > Developed by OpenAI, accessable via an easy to use browser-based user interface
 
-## Who is OpenAI? 🪟
+## Who Is OpenAI? 👩‍💻
 
 OpenAI is an AI research and deployment company.
 
@@ -66,46 +76,45 @@ OpenAI is an AI research and deployment company.
 
 <br> [Note: It is reported that Microsoft’s investments in OpenAI give it a 49% stake in the company (billions of $)]{style="color:orange;"}
 
-
-## ChatGPT 👩‍💻🧑‍💻
+## ChatGPT 👩‍💻
 
 - LLM model trained on ~45 terabytes of data, including all of Wikipedia, books, and webpages (up until Sept 2021)
 -  \>100 million users in ~2 months, fastest-growing consumer software application _ever_
-- ‘research preview’ is "free"---which allows OpenAI to assess the system’s strengths + weaknesses and gather feedback from early adopters
+- ‘research preview’ is "free"---but nothing is really free, this allows OpenAI to assess the system’s strengths + weaknesses and gather feedback from early adopters
 
 ::: notes
 Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years to reach 100 million users. This was a feat achieved by ChatGPT in a mere 60 days or so
 :::
 
-## ChatGPT ☁️💸
+## ChatGPT 👩‍💻
 
 - training each model costs estimated to be ~$5 million dollars 🤯
 - ChatGPT sits on Microsoft’s Azure Cloud infrastructure ($3/h single A100GPU super computer cluster)
 - running costs estimated between $100,000 and $700,000 per day ($3-$21 million per month)
 - OpenAI monetizing with ChatGPT Plus subscription (GPT-4 w/ 5x training parameters) for $20 per month fee
 
-## What is ChatGPT _GOOD_ at? 🤖
+## ChatGPT the _GOOD_ 🤖
 
 ![](images/chatgpt-good-for.png){.absolute top="75" width="700"}
 
-## Facts Like Geography 🇨🇦
+## Simple Facts (e.g., 🇨🇦 Geography) 🤖 
 
 ![](images/canada.png){.absolute top="75" height="600"}
 
-## Generate Machine Readable Data ⊹
+## Generating Machine Readable Data 🤖 
 
 ![](images/table.png){.absolute top="75"}
 
-## Content Drafting ✍️
+## Content Drafting 🤖
 
 ![](images/email.png){.absolute top="75"}
 
-## Creative Writing: Open Data on a Pirate Ship ⚓️
+## Creative Writing: Open Data on a Pirate Ship️ 🤖 
 
 ![](images/pirate-voice.png){.absolute top="175"}
 
 
-## Code 💻 
+## Code 🤖 
 
 ::: columns
 ::: {.column width="70%"}
@@ -121,55 +130,118 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 :::
 :::
 
-## And the Code Works 📊
+## And the Code Works! 👩‍💻
 
 ![](images/code-works.png)
 
-## What is ChatGPT _NOT GOOD_ at? 🤖
+## ChatGPT the _NOT GOOD_ 🤖
 
 ![](images/chatgpt-not-good-for.png)
 
-## What is ChatGPT _NOT GOOD_ at? 🤖
+## ChatGPT the _NOT GOOD_ 🤖
 
 ![](images/chatgpt-not-good-for2.png){.absolute top="75"}
 
+## Word Puzzle Fail 🤖
 
+![](images/fail.png){.absolute top="75"}
 
-## Many Additional Concerns about ChatGPT & LLMs 🤖
+## Beware: Confident When Wrong 🤖 
 
-- 
+![](images/fail-again.png){.absolute top="75"}
 
-## Prompting Tips
+## Hallucinations 🤖
+
+> Hallucination in LLMs refers to the generation of inaccurate, nonsensical, or detached text
+
+![](images/help-out.png){.absolute top="275" height="300"}
+
+## ChatGPT the _UGLY_ 👩‍💻
+
+- ethics (training data, use of outputs)
+- bias (training data)
+- data privacy
+- "fake" information/data/news
+- environmental footprint
+- ...
+
+## Prompt Engineering 👩‍💻
+
+![](images/prompt-engineering.png){.absolute top="75"}
+
+## Prompting Tips 🤖
+
+![](images/prompt-tips.png)
+
+## Prompting Tips 👩‍💻
 
 - simple + short gets you started, but specificity gets much better results, e.g., style, tone, persona, length
 
-
-![](images/prompt-engineering.png){.absolute top="300"}
-
-## Prompt Engineering
-
-
-
 - request the return format you want (e.g., csv/table, haiku, json file, slides)
 
-## Add the Context ChatGPT Does Not Know
+- add the context ChatGPT does not know
 
+## Zero-Shot Prompting
 
+- prompt without any examples or context (quick, simple, most common)
+
+> Generate 5 possible names for my new blog website on data vizualizations
+
+## One-Shot Prompting
+
+- prompt with a single example or piece of context provided by the user
+
+> Generate 5 possible names for my new blog website on data vizualizations. A blog site name I like is Data is Beautiful. 
 
 ## Few-Shot Prompting
 
-- Provide examples (as opposed to "zero-shot" or providing instruction without an example)
+- prompt with a few examples or pieces of context provided by the user
 
-
-::: notes
-All our prompts so far use what is called zero-shot prompting, which means that we are providing instruction without any example. But in many cases, it is extremely helpful to provide examples to the model to guide its response. This is called few-shot prompting.
-:::
+> Generate 5 possible names for my new blog website on data vizualizations. Blog site names I like include Data is Beautiful, Data Storytelling for Everyone and Data Doodling.
 
 ## Chain of Thought Prompting
 
-- Provide example in a prompt that show a response that includes a reasoning step
+- a prompt that includes reasoning steps that mimics a train of thought (often ends with "Let's Think Step By Step")
 
-## Ask for Steps
+> Farmer John had 93 chickens. If he sold 20 to Farmer Bill and bought twice that number more, how many chickens does Farmer John have now? Let’s think step by step.
 
-- Add instructions for the model to generate intermediate steps before generating the final output.
+## Self Criticism & Self Refine
+
+- prompt the LLM to assess its output for potential inaccuracies or improvement areas, and solve the problem again with this critique in-hand 
+
+> Please re-read your above response. Do you see any issues or mistakes with your response? If so, please identify these issues or mistakes and make the necessary edits.
+
+## Prompt Engineering is a Skill 👩‍💻
+
+![](images/prompt-courses.png){.absolute top="150" height="400" left="200"}
+
+## ChatGPT 🤖
+
+![](images/safe-use.png)
+
+
+
+## Government of Canada 🇨🇦
+
+[Guide on the use of Generative AI](<https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html>)
+
+![](images/cangov.png)
+
+## Government of British Columbia  
+
+![](images/bcgov-draft-ai.png)
+
+<https://digital.gov.bc.ca/policies-standards/ai/>
+
+
+## Safe LLMs 💻
+
+![](images/llm-locally.png)
+
+<https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html>
+
+
+## ChatGPT: Be Safe & Have Fun 🤖
+
+![](images/bcstats.png){.absolute top="50" left="250" height="800"}
 
