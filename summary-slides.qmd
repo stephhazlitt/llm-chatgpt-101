@@ -1,7 +1,7 @@
 ---
 title: "An Intro to ChatGPT & Large Language Models"
 subtitle: "(slides made with Quarto)"
-author: "ChatGPT 🤖 & Steph Hazlitt"
+author: "ChatGPT 🤖 & Steph Hazlitt 👩‍💻"
 footer: "🔗 https://github.com/stephhazlitt/llm-chatgpt-101"
 logo: "images/robot-face-emoji.png"
 execute:
@@ -205,7 +205,7 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 > Farmer John had 93 chickens. If he sold 20 to Farmer Bill and bought twice that number more, how many chickens does Farmer John have now? Let’s think step by step.
 
-## Self Criticism & Self Refine
+## Self Criticism & Self Refine Prompting
 
 - prompt the LLM to assess its output for potential inaccuracies or improvement areas, and solve the problem again with this critique in-hand 
 
@@ -218,7 +218,6 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 ## ChatGPT 🤖
 
 ![](images/safe-use.png)
-
 
 
 ## Government of Canada 🇨🇦
@@ -239,7 +238,6 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 ![](images/llm-locally.png)
 
 <https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html>
-
 
 ## ChatGPT: Be Safe & Have Fun 🤖
 
