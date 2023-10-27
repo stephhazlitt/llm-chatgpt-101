@@ -32,12 +32,12 @@ A more detailed "prompt":
 
 ## Lets Ask ChatGPT 🤖
 
-![](images/ask-chatgpt-3.png){.absolute top="75"}
+![](images/ask-chatgpt-3.png){.absolute top="75" height="600"}
 
 
 ## Lets Ask ChatGPT 🤖
 
-![](images/ask-chatgpt-4.png){.absolute top="60"}
+![](images/ask-chatgpt-4.png){.absolute top="60" height="600"}
 
 ## What is a Large Language Model? 🤖
 
@@ -45,7 +45,7 @@ A more detailed "prompt":
 
 ## What is a Large Language Model? 🤖
 
-![](images/llm-pl.png){.absolute top="60"}
+![](images/llm-pl.png){.absolute top="60" height="600"}
 
 ## Domain Specific LLMs 👩‍💻
 
@@ -95,7 +95,7 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ## ChatGPT the _GOOD_ 🤖
 
-![](images/chatgpt-good-for.png){.absolute top="75" width="700"}
+![](images/chatgpt-good-for.png){.absolute top="75" height="600"}
 
 ## Simple Facts (e.g., 🇨🇦 Geography) 🤖 
 
@@ -103,11 +103,11 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ## Generating Machine Readable Data 🤖 
 
-![](images/table.png){.absolute top="75"}
+![](images/table.png){.absolute top="75" height="600"}
 
 ## Content Drafting 🤖
 
-![](images/email.png){.absolute top="75"}
+![](images/email.png){.absolute top="75" height="600"}
 
 ## Creative Writing: Open Data on a Pirate Ship️ 🤖 
 
@@ -118,7 +118,7 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ::: columns
 ::: {.column width="70%"}
-![](images/code.png){.absolute top="75" width="800"}
+![](images/code.png){.absolute top="75" height="600"}
 :::
 
 ::: {.column width="30%"}
@@ -144,11 +144,11 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ## Word Puzzle Fail 🤖
 
-![](images/fail.png){.absolute top="75"}
+![](images/fail.png){.absolute top="75" height="600"}
 
 ## Beware: Confident When Wrong 🤖 
 
-![](images/fail-again.png){.absolute top="75"}
+![](images/fail-again.png){.absolute top="75" height="600"}
 
 ## Hallucinations 🤖
 
@@ -181,31 +181,31 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 - add the context ChatGPT does not know
 
-## Zero-Shot Prompting
+## Zero-Shot Prompting 👩‍💻
 
 - prompt without any examples or context (quick, simple, most common)
 
 > Generate 5 possible names for my new blog website on data vizualizations
 
-## One-Shot Prompting
+## One-Shot Prompting 👩‍💻
 
 - prompt with a single example or piece of context provided by the user
 
 > Generate 5 possible names for my new blog website on data vizualizations. A blog site name I like is Data is Beautiful. 
 
-## Few-Shot Prompting
+## Few-Shot Prompting 👩‍💻
 
 - prompt with a few examples or pieces of context provided by the user
 
 > Generate 5 possible names for my new blog website on data vizualizations. Blog site names I like include Data is Beautiful, Data Storytelling for Everyone and Data Doodling.
 
-## Chain of Thought Prompting
+## Chain of Thought Prompting 👩‍💻
 
 - a prompt that includes reasoning steps that mimics a train of thought (often ends with "Let's Think Step By Step")
 
 > Farmer John had 93 chickens. If he sold 20 to Farmer Bill and bought twice that number more, how many chickens does Farmer John have now? Let’s think step by step.
 
-## Self Criticism & Self Refine Prompting
+## Self Criticism & Refine Prompting 👩‍💻
 
 - prompt the LLM to assess its output for potential inaccuracies or improvement areas, and solve the problem again with this critique in-hand 
 
@@ -220,26 +220,26 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 ![](images/safe-use.png)
 
 
-## Government of Canada 🇨🇦
+## Government of Canada 🇨🇦 👩‍💻
 
 [Guide on the use of Generative AI](<https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/responsible-use-ai/guide-use-generative-ai.html>)
 
 ![](images/cangov.png)
 
-## Government of British Columbia  
+## Government of British Columbia 👩‍💻
 
 ![](images/bcgov-draft-ai.png)
 
 <https://digital.gov.bc.ca/policies-standards/ai/>
 
 
-## Safe LLMs 💻
+## Safe LLMs 👩‍💻
 
 ![](images/llm-locally.png)
 
 <https://www.infoworld.com/article/3705035/5-easy-ways-to-run-an-llm-locally.html>
 
-## ChatGPT: Be Safe & Have Fun 🤖
+## ChatGPT: Be Safe & Have Fun 👩‍💻 🤖
 
-![](images/bcstats.png){.absolute top="50" left="250" height="800"}
+![](images/bcstats.png){.absolute top="75" left="250" height="600"}
 
