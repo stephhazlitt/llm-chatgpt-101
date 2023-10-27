@@ -140,7 +140,7 @@ Facebook took almost 5 years; Canva took 9 years; and Instagram needed 2.5 years
 
 ## ChatGPT the _NOT GOOD_ 🤖
 
-![](images/chatgpt-not-good-for2.png){.absolute top="75"}
+![](images/chatgpt-not-good-for2.png){.absolute top="75" height="600"}
 
 ## Word Puzzle Fail 🤖
 
