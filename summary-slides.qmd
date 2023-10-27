@@ -1,6 +1,6 @@
 ---
 title: "An Intro to ChatGPT & Large Language Models"
-# subtitle: "(slides made with Quarto)"
+subtitle: "(slides made with Quarto)"
 author: "ChatGPT 🤖 & Steph Hazlitt 👩‍💻"
 footer: "🔗 https://github.com/stephhazlitt/llm-chatgpt-101"
 logo: "images/robot-face-emoji.png"
