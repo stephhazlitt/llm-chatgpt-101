@@ -1,4 +1,4 @@
-# Using & Understanding ChatGPT and LLMs
+# Using & Understanding ChatGPT and Large Language Models
 
 A collection of resources, notes and learnings on:
 
