@@ -5,7 +5,7 @@ A collection of resources, notes and learnings on:
 - What is ChatGPT?
 - What is a Large Language Model (LLM)?
 - How do I prompt a model to get "better" answers?
-- How can I run an LLM model locally?
+- How can I run an LLM model locally on my machine?
 
 ## Resources
 
