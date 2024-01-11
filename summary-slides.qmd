@@ -48,14 +48,29 @@ A more detailed "prompt":
 ![](images/llm-pl.png){.absolute top="60" height="600"}
 
 ## Domain Specific LLMs 👩‍💻
-
+e.g. GitHub's Copilot
 <br>
+
 
 ![](images/copilot.png){.absolute top="150"}
 
 ::: notes
 Large language models (LLMs), like ChatGPT, can also be focused on domains, and tuned or targeted with additional information. These resulting models can have more expertise in a targeted domain – and avoid information which can produce confused output. Examples of these include those LLMs that are focused on code development, biomedical or legal domains (e.g., CodePilot, CodeLlama, BioBert, Legal-Bert). 
 :::
+
+## Domain Specific LLMs 👩‍💻
+e.g. Sage AI
+<br>
+
+![](images/sage.png){.absolute top="150"}
+
+## What About Machine Learning Models?
+
+![](images/ML.png){.absolute top="150"}
+
+## What About Machine Learning Models?
+
+![](images/ML-2.png){.absolute top="150"}
 
 ## ChatGPT 👩‍💻
 
